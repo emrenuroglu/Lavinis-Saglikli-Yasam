@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952344786805",
+    "project_id": "lavinis",
+    "storage_bucket": "lavinis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952344786805:android:2d28a1e533ce411186853c",
+        "android_client_info": {
+          "package_name": "com.example.lavinis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbrE3ZYfuT0af-4xXWoNk5A4TaEfvtLp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
